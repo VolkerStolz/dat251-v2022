@@ -10,9 +10,9 @@ import com.google.gson.GsonBuilder;
 
 public class MyWebService {
 
-	public static void main(String[] args) {
-		start();
-	}
+//	public static void main(String[] args) {
+//		start();
+//	}
 	
 	public static void start() {
 		
